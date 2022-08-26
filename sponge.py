@@ -1,7 +1,7 @@
 import math
 
-# Int order to operate input through algoritm call 'operate' method
-# For better variables and algoritm explanation, check: https://en.wikipedia.org/wiki/Sponge_function
+# In order to operate input through algoritm call 'operate' method
+# For better variables and algorithm explanation, check: https://en.wikipedia.org/wiki/Sponge_function
 class Sponge:
     def __init__(self, r, c, f):
         self.r = r # bitrate (first part of the S)
